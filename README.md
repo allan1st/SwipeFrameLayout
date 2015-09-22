@@ -1,6 +1,6 @@
 # SwipeFrameLayout
 
-Containers which wrap scrollable layouts, enables gestures when over-scrolling.
+Containers which wrap scrollable layouts, enable gestures when over-scrolling.
 
 # Usage
 
